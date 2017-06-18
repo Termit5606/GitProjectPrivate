@@ -1,3 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_restart()
+if direction != 270 and canturn {
+	direction = 90
+	canturn = false
+}

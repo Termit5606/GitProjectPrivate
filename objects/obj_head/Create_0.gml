@@ -6,7 +6,7 @@ image_speed = 0
 alarm[0] = global.spd
 n = 5
 repeat(5) {
-	tail = instance_create(x-32*n, y, object0)
-	tail.alarm[0] = global.spd*(6-n)
+	tail = instance_create_depth(x-64*n, y, 1, obj_tail)
+	tail.alarm[0] = global.spd
 	n -= 1
 }
