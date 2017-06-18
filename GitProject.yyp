@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "095d3035-63cf-4538-b5f0-9b05932ab8c8",
-            "Value": {
-                "id": "7c12015c-6dfc-49b8-b910-f52241e29a1f",
-                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "13689adc-1b11-48e9-98be-3ea3922d81e0",
             "Value": {
                 "id": "f89a2706-f9d8-4972-8220-5f058061def5",
@@ -79,19 +71,11 @@
             }
         },
         {
-<<<<<<< HEAD
-            "Key": "2935f1ce-2210-412e-8bdd-411b0b6c8797",
-            "Value": {
-                "id": "588b17ec-b482-4b12-8c41-ab3c472d87d9",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
-                "resourceType": "GMSprite"
-=======
             "Key": "252f118f-1543-4bf9-9876-fc44c3b68365",
             "Value": {
                 "id": "f6ead3e9-ade7-493d-8957-532b5ac36f08",
                 "resourcePath": "objects\\object1\\object1.yy",
                 "resourceType": "GMObject"
->>>>>>> 28cdd2b4da29fe27cd0f1cfffe2f45191057de09
             }
         },
         {
@@ -199,14 +183,6 @@
             }
         },
         {
-            "Key": "db9c1099-99e3-4a28-97b0-54b16b687836",
-            "Value": {
-                "id": "b912ff0b-a22f-4093-a49d-f854317b4510",
-                "resourcePath": "sprites\\tileone\\tileone.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "dcb9545a-0268-4c2b-9f7b-f159dc2fbd07",
             "Value": {
                 "id": "4cbe13f8-0217-4713-b8ca-ef0ccfc8a090",
@@ -220,6 +196,14 @@
                 "id": "636bacab-aeaa-4c63-b172-4b5c1a4dd99b",
                 "resourcePath": "views\\e51cc1d9-7a56-467b-982e-1e20f4c2a69a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ed929670-96c6-4520-89dc-03a7af9ed35b",
+            "Value": {
+                "id": "f74bb9a9-95fd-4064-a9ea-3e012fee756b",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
